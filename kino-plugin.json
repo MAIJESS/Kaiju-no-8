@@ -1,0 +1,39 @@
+{
+  "id": "kaiju-no8",
+  "name": "Kaiju No. 8",
+  "version": "1.0.0",
+  "apiVersion": 18,
+  "entry": "plugin.js",
+  "description": "Tema inspirado en Kaiju No. 8: noche urbana, brillo kaiju verde azulado y acentos naranjas de la Fuerza de Defensa.",
+  "author": "Maikel",
+  "hosts": [],
+  "categories": [
+    "themes"
+  ],
+  "appThemes": [
+    {
+      "id": "kaiju-no8",
+      "name": {
+        "es": "Kaiju No. 8",
+        "en": "Kaiju No. 8"
+      },
+      "colors": {
+        "background": "#0B0F14",
+        "surface": "#141B22",
+        "text": "#E8F1F2",
+        "textMuted": "#8A9BA8",
+        "primary": "#2EE6C5",
+        "accent": "#FF6A1A",
+        "danger": "#E63946",
+        "border": "#1F2A33"
+      },
+      "shape": {
+        "chipRadius": 4,
+        "menuBorder": 2
+      },
+      "motion": {
+        "crossfadeMs": 180
+      }
+    }
+  ]
+}
