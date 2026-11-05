@@ -1,21 +1,12 @@
-# Kaiju No. 8 — Tema para Kino TV
+<img src="https://crimson-kaiju-cinema.lovable.app/__l5e/assets-v1/efa37204-77f0-45ac-a30f-2ddc3e24a872/kaiju-icon.jpg" alt="Icono de Kaiju No. 8" width="160" />
 
-Tema hecho por fans, inspirado en Kaiju No. 8, con dos estilos para Kino TV.
+# Kaiju No. 8
 
-## Estilos incluidos
+Verde menta de energía kaiju sobre la noche de Tokio, con una variante naranja inspirada en la Fuerza de Defensa.
 
-- **Kaiju No. 8:** verde menta sobre fondos oscuros, con emblema y logo propios.
-- **Fuerza de Defensa:** naranja táctico sobre fondos oscuros, con emblema y logo propios.
+Tema para KinoTV  
+(https://kinotvapp.github.io/kino-plugins/themes/). Cambia los colores, el fondo, las formas y el logo de la aplicación. Incluye los estilos **Kaiju No. 8** y **Fuerza de Defensa**.
 
-## Requisitos
+Necesita Kino **0.9.81 o superior**.
 
-- Kino TV versión **0.9.81 o posterior**.
-- Acceso a internet para cargar los archivos del tema.
-
-## Página del tema
-
-La imagen usada como icono de la página y del navegador pertenece a la presentación web. Los logos del tema instalado se definen por separado dentro de `kino-plugin.json`.
-
-## Créditos
-
-Proyecto no oficial hecho por fans. Kaiju No. 8 pertenece a sus respectivos autores y titulares de derechos. No está afiliado a ellos ni a Kino TV.
+Tema no oficial hecho por fans. Kaiju No. 8 pertenece a sus respectivos autores. La instalación todavía no se ha probado dentro de Kino TV.
